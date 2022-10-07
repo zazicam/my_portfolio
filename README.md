@@ -4,7 +4,7 @@
 
 ### 1. Кластеризация точек на плоскости и визуализация результата 
 [C++, Cmake, dlib, libpng]. 
-Это одно из домашних заданий по курсу "С++ Developer. Professional" от кампании OTUS. Я его проходил в 2019 году и считаю, что этот [код можно показать](https://github.com/zazicam/otus-cpp-hw15/blob/master/README.md).
+Это одно из домашних заданий по курсу "С++ Developer. Professional" от кампании OTUS. Я его проходил в 2019 году и считаю, что этот [код можно показать](https://github.com/zazicam/otus-cpp-hw15).
 
 ### 2. Шаблонный класс 2-мерной разреженой бесконечной матрицы 
 [С++, Cmake, GTest (google testing framework)].
